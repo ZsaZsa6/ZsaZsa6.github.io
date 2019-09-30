@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Wearing a new hat!!"
+title:      "Wearing a new hat!!"
 date:       2019-09-30 17:48:55 -0400
 permalink:  wearing_a_new_hat
 ---
@@ -32,7 +32,7 @@ I can now see that I can use many of the things that wearing my other hats has t
 
 I can use the people skills that I learned from being a business owner, a mom and a childcare provider to communicate with my peers and to eventually help me put on the hat of being a successful product manager. 
 
-### ***Dreams in the Making***
+## ***Dreams in the Making***
 My husband and I have dreamed for years of living by the ocean. He would love to wear a beach-bum hat but has promised that once he retires from his career in the LP Gas industry, he will find himself a hat that he absolutely loves wearing that doesn't entitle him to just laying around on the beach with a drink in his hand all day!!
 
 I am excited to keep on my thinking cap for the rest of my life and I will keep adding more hats to my collection. A new look, a new attitude and new experiences come with each one and I hope to be collecting  and wearing new hats (both physical and metaphorical) until the day I die.
