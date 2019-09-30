@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Wearing a new hat!!"
+title:      "**Wearing a new hat!!**"
 date:       2019-09-30 17:48:55 -0400
 permalink:  wearing_a_new_hat
 ---
@@ -25,12 +25,12 @@ I am a very creative individual with interests including writing, painting, draw
 ### I NEED a new hat!!
 I have been looking for a completely new hat to wear for a few years now. Something that would test my self-set limits and bring me out of my comfort zone! I don't really love comfort zones because when you get comfortable, you get complacent and eventually complacency leads to contempt! (From an episode of Two and a Half Men, I think Ashton Kutchner's character said it!)
 
-My son is a software engineer and when he approached me with the idea of attending a software engineering bootcamp to learn some new skills, and possibly start a new career, I was not sure I wanted to go that way because I am such a creative person. But, my interest was peaked, so I looked at the free resources he sent me.  I found that trying on that hat was a great step and I did NOT want to take it off!!
+My son is a software engineer and when he approached me with the idea of attending a software engineering bootcamp to learn some new skills, and possibly start a new career, I was not sure I wanted to go that way because I am such a creative person. But, my interest was peaked, so I looked at the free resources he sent me.  I tried on that new hat and I did NOT want to take it off!!
 
 ### This hat fits!!
 I can now see that I can use many of the things that wearing my other hats has taught me to be a great software engineer. I can use my creativity to create innovative programs to help others. I have had an idea for a program to people with difficulty interpreting social cues rattling around in my brain for awhile, and I can now see myself being able to build such a program.
 
-I can use the people skills that I learned from being a business owner, a mom and a childcare provider to communicate with my peers and to eventually help me put on the hat of being a successful program manager. 
+I can use the people skills that I learned from being a business owner, a mom and a childcare provider to communicate with my peers and to eventually help me put on the hat of being a successful product manager. 
 
 ##### ***Dreams in the Making***
 My husband and I have dreamed for years of living by the ocean. He would love to wear a beach-bum hat but has promised that once he retires from his career in the LP Gas industry, he will find himself a hat that he absolutely loves wearing that doesn't entitle him to just laying around on the beach with a drink in his hand all day!!
