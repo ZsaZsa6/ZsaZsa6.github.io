@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Wearing a new hat!****!"
+title:      "**Wearing a new hat!!"
 date:       2019-09-30 17:48:55 -0400
 permalink:  wearing_a_new_hat
 ---
