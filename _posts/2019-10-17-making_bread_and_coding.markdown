@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Making Bread and Coding**"
-date:       2019-10-17 20:20:19 +0000
+date:       2019-10-17 16:20:20 -0400
 permalink:  making_bread_and_coding
 ---
 
@@ -28,15 +28,15 @@ When I first started coding, I NEVER wanted to ask for help. Then I remembered t
 
 Now I ask for help a few times a day. I Google terms and methods and read blog posts about coding DAILY!! I want to perfect the recipe but I know it's going to take time.
 
-When you rush the process of bread-making, you end up with a touch, ugly bunch of bread that really doesn't taste all that great!!
+When you rush the process of bread-making, you end up with a tough, ugly bunch of bread that really doesn't taste all that great!!
 
 When I rush the process of coding, I end up frustrated, aggravated and left with a bunch of ugly code that doesn't do what I want. I end up with an unsatisfactory product!!
 
 ### **SO TAKE A BREATH!!**
 
-Recently, after years of making bread, I was stressed and tired but I decided to make some bread anyway. I rushed the process and in doing so, the whole experience took twice as long as normal. I didn't take a breath and really focus on what I was doing. 
+Recently, after years of making bread, I was stressed and tired, but I decided to make some rolls anyway. I rushed the process, and in doing so, the whole experience took twice as long as normal. I didn't take a breath and really focus on what I was doing. 
 
-In this process of learning to code, I often have to take a breath!! I have to refocus myself to the task at hand and sometimes, I have to start from scratch!! 
+In this process of learning to code, I often have to take a breath!! I have to refocus myself to the task at hand and sometimes, I have to start from scratch!! Sometimes, I walk away from the problem and when I return, my focus is sharp and the solution is evident to me. 
 
 ### **Use Occam's Razor**
 
@@ -52,7 +52,7 @@ One of the most important statements in coding!! Just keep it simple, elegant an
 
 As I am learning more and more about coding, I am learning to trust my intuition. Even if there are new ingredients to add, there are always going to be some of the same ingredients. 
 
-If I was going to try a new bread recipe, I would need to follow my intuition gained from my trials and errors in my journey of making bread. If I saw a recipe that called for 1 cup of yeast and 6 tablespoons of flour, my intuition would tell me something was wrong.
+If I was going to try a new bread recipe, I would need to follow my intuition gained from my trials and errors in my journey of making bread. If I saw a recipe that called for 1 cup of yeast and 6 tablespoons of flour, my intuition would tell me something was wrong with that recipe.
 
 Sometimes when I read a blog post or a Q&A forum where the answer to a coding problem doesn't look just right, or is way too complicated, I go searching for other sources. My intuition tells me that there might be something more that I need to research.
 
