@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Making Bread and Coding**"
+title:      "Making Bread and Coding"
 date:       2019-10-17 16:20:20 -0400
 permalink:  making_bread_and_coding
 ---
