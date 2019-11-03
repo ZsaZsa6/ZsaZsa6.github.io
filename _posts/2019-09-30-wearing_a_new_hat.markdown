@@ -10,7 +10,7 @@ I love hats!! Physical hats like ball caps, fedoras, bowlers, the old man golf c
 
 But I also love metaphorical hats!! You know, those that symbolize the jobs you do? 
 
-My favorite hat, and the one I wear the most is my learning cap. Do your remember in school when your teacher told the class, "Now it's time to put on our thinking caps,"??? Or was that just my teacher? 
+My favorite hat, and the one I wear the most is my learning cap. Do you remember in school when your teacher told the class, "Now it's time to put on our thinking caps,"??? Or was that just my teacher? 
 
 ## I love to learn!!
 
