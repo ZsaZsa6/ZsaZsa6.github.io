@@ -28,7 +28,7 @@ I have been looking for a completely new hat to wear for a few years now. Someth
 My son is a software engineer and when he approached me with the idea of attending a software engineering bootcamp to learn some new skills, and possibly start a new career, I was not sure I wanted to go that way because I am such a creative person. But, my interest was peaked, so I looked at the free resources he sent me.  I tried on that new hat and I did NOT want to take it off!!
 
 ### This hat fits!!
-I can now see that I can use many of the things that wearing my other hats has taught me to be a great software engineer. I can use my creativity to create innovative programs to help others. I have had an idea for a program to people with difficulty interpreting social cues rattling around in my brain for awhile, and I can now see myself being able to build such a program.
+I can now see that I can use many of the things that wearing my other hats has taught me to be a great software engineer. I can use my creativity to create innovative programs to help others. I have had an idea for a program to assist people with difficulty interpreting social cues rattling around in my brain for awhile, and I can now see myself being able to build such a program.
 
 I can use the people skills that I learned from being a business owner, a mom and a childcare provider to communicate with my peers and to eventually help me put on the hat of being a successful product manager. 
 
