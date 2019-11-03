@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Struggle is Real****"
-date:       2019-11-03 18:05:53 +0000
+date:       2019-11-03 13:05:53 -0500
 permalink:  the_struggle_is_real
 ---
 
@@ -21,8 +21,26 @@ This lab is a killer!! Yes, it's a compilation of the lessons that have came bef
   end`
 	
 	I never knew you could put "if" in an intialize method. It was the easiest way to solve the problem but to me it was definitely unorthodox from my point of view.
+
+And another example:
+
+```
+  attr_accessor :path
+  def initialize(path = "./db/mp3s")
+    MusicImporter.new(path).import
+
+  end
+```
+
+
+And I thought that pretty much everything under the initialize method needed to start with self or @!! 
+
+So I have yet to finish the Music Library CLI lab, as I had to take a break to write out this blog post. Hopefully, I will find some other unorthodox methods to finish this one up so I can continue on and finish my first project! 
+
+
+
+
 	
-	So I have yet to finish the Music Library CLI lab, as I had to take a break to write out this blog post. Hopefully, I will find some other unorthodox methods to finish this one up so I can continue on and finish my first project! 
 
 
 
