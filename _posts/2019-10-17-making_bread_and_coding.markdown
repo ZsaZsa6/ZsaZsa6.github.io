@@ -16,7 +16,7 @@ But with coding and bread-making, things can go wrong. It's all about the ingred
 
 ### ** It's all about the ingredients and the processes.**
 
-In bread-baking, quality ingredients are vital. Measuring each ingredient is essential. You can't really WING it!! Timing in the process, adding certain ingredients at a certain time is critical to the success of the bread. You can't rush the process.
+The quality of your ingredients are vital when you're baking bread, as is measuring each ingredient. You can't really wing it! Adding certain ingredients at the right time is critical to the success of the bread. You definitely can't rush the process!
 
 I have found the same thing to be true in coding! And I have to constantly remind myself:
 
