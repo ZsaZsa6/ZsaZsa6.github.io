@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "Scraping****"
+date:       2019-11-22 22:33:00 +0000
+permalink:  scraping
+---
+
+
+I had to take a little break from the bootcamp to go visit my parents in Idaho. My dad has Parkinson's Disease and Lewy-Body Dementia. His loss of communication and physical disability is progressing quickly and I wanted to see him and visit with him before he stopped recognizing people or was unable to communicate at all. 
+
+As I was heading out on my trip, I started the Scraping lab. I didn't know that I really wouldn't have time nor the mental focus to work while I was at my parents' house so I thought I could at least finish the lab before I came home. Didn't happen!!
+
+Scraping is one of those "trial-and-error" type things until you really get good at it. I am not a fan of those sort of activities, as I really like to KNOW what I am doing. 
+
+I am back to work on this today and hope to finish up before I take a couple days off to celebrate my 30th wedding anniversary.
+
+Being in the online, self-paced bootcamp is great when life happens, as it seems to do often!!
+
+
