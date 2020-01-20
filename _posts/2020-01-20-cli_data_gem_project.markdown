@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Project"
-date:       2020-01-20 15:02:47 +0000
+date:       2020-01-20 10:02:48 -0500
 permalink:  cli_data_gem_project
 ---
 
@@ -28,6 +28,6 @@ Once the review has printed out to the screen, he/she has the choice of reading 
 
 #### Final Thoughts
 I sincerely hope that the rest of the projects do not take me this long to complete. My personal life played a large role in the that, as I had an unexpected trip to make where I was unable to work on anything in the bootcamp, and the holidays kept me away from my computer more than I expected. I also experienced a few bouts with sickness during this time and an enormous amount of stress. I have had to make some serious life changes and have several more looming in the near future that will impact my performance in the bootcamp. I know I will continue in the bootcamp and will complete it but I have some serious family commitments that I am going to have to deal with and some major adjustments to make. 
-I have discovered that finding a balance between family and the bootcamp has been the most troublesome and crucial component to my success. I am still working toward that delicate balance and I assume that conflict will continue to be a source of stress as I move forward. I am committed to my path in both areas so it will be imperative that I work for that balance every day!
+I have discovered that finding a balance between family and the bootcamp has been the most troublesome and crucial component to my success. I am still working toward that delicate balance and I assume that conflict will continue to be a source of stress as I move forward. I am committed to my path in both areas so it will be imperative that I work for that balance every day! I have fantastic support from my family and I will need to learn to lean on them more in the days ahead to achieve my goals. 
 
 
