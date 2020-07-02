@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Working it out!!"
-date:       2020-07-01 14:24:12 +0000
+date:       2020-07-01 10:24:13 -0400
 permalink:  working_it_out
 ---
 
@@ -34,13 +34,13 @@ I built a website using a Sinatra framework that allows a user to sign up for an
 
 Not super happy with the way the content is displayed right now but it meets the standards. My perfectionist self wants to expand but my time limits laugh at me!! This would be the area that I would expand.
 
-I found a happy piece of code to verify that the email address was present and also was in the correct format.
+I found a happy piece of code to verify that the email address is present and uses a little Regex to make sure it's in the correct format.
 
 ```
 validates :email, presence: true, :format => {:with => /\w+@\w+\.\w+/}
 ```
 
-Making the user and list models was relatively simple since the list relationship was simply that it belongs_to a user. The user model needed a validation of a unique username and also that there was a username as this is the way that the user would login in the future. 
+Making the user and list models was relatively simple since the list relationship was simply that it belongs_to a user. Of course, the user has_many lists. The user model needed a validation of a unique username and also that there was a username as this is the way that the user would login in the future. 
 Also a secure password was essential so I just used the BCrypt function of has_secure_password as that seemed to be the simplest way. 
 
 Getting the routes and views working was quite easy after watching some videos. I was able to use some rather simple code for this. 
