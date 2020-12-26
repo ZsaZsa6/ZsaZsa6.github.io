@@ -1,0 +1,25 @@
+---
+layout: post
+title:      "**FINALLY!!!!**"
+date:       2020-12-26 16:48:51 +0000
+permalink:  finally
+---
+
+
+I can't believe how long this has taken!! Time and life has just swept me along and this Rails Project seemed to be never-ending!! 
+
+A few weeks ago, I just started over!! I kept the original project and used some of the code in the new project but kept it very simple with just three models--Customer, Cakes and Tiers. I made tiers the join table because you can't have a cake without tiers. My previous project had four models but I couldn't seem to find the correct join table that made sense in the real world. 
+
+Starting over was actually a great idea because it gave me more experience in building a project from scratch and I was able to not use any nested forms, which had caused my first project to be unnecessarily complex. 
+
+The part of the project that I had dreaded was the third-party sign-in. I had attended many study groups where fellow students were struggling with that requirement, but when I followed a blog post that was shared in one of those groups, I was able to fulfill that requirement in no time!!
+
+The scope method was also something I was concerned about, but once again, this came together easily in a few hours after I started over. Being able to order my cakes by the most recently created just made sense for the customer.
+
+Although I didn't focus on much CSS during this project, I actually plan to come back and return to the previous app I built and design it to be beautiful and have a much bigger scope and use. I am a cake decorator so I could also potentially use this for my side business. 
+
+Keeping the routes simple and sensible was also very important in being able to finish this project. I had previously nested many of the routes and I found that this was not necessary or rational. It was only the index and new routes for cakes and tiers that needed to be nested. Cakes were nested under customers and tiers was nested under cakes.
+
+As I mentioned previously, I attended many study groups. I didn't start this practice until about a month before I finished my project. I found them to be essential and very helpful. I feel that the major thing that is lacking from the self-paced program is instructional support and a sense of comraderie between students. I discovered a taste of that when I was attending the study groups, but I still believe that this is a component that is lacking in Flatiron's self-paced program!! I have had an intense feeling of being alone in this journey and lacking any kind of support from those who should be helping me through this program. Even though we are setting the pace for the program ourselves, we need instruction and direction.
+
+I am excited for my review, proud of this project and ready to move on to the next section and finish up the program. 
