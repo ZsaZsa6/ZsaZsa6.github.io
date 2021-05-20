@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Planning, Planning, Planning"
-date:       2021-05-11 22:59:34 +0000
+date:       2021-05-11 18:59:35 -0400
 permalink:  planning_planning_planning
 ---
 
@@ -17,6 +17,18 @@ After getting everything designed, listed and calculated, it's time to go shoppi
 I have tried "winging it" when making a cake and I have had several "caketastrophes"!!
 
 When I began my first project, I had an idea of what I wanted it to look like, but because I didn't even KNOW really how to plan for it, I forced myself to JUST START CODING!! I have learned, over time, better planning equals a better process and a better project. 
+
+To plan for this React/Redux project, I discovered Figma and drew out (in very basic form) what I wanted each part of this app to look like. 
+
+
+
+Ingredients --- baking powder vs baking soda (== vs ===)
+
+Ruby and Rails is like baking bread--there are some major rules.
+
+JavaScript and React --- you still gotta know the rules but you can cook, bake, sweet, savory, just make sure you know what each ingredient is doing and how you need to use it!!
+
+After all the planning, you gotta do a tiny bit of trial and error!!
 
 
 
